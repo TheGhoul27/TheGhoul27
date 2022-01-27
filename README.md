@@ -1,6 +1,6 @@
 <p align="center">
   <h1 align='center'>Hi there 👋🏻, I'm Pradhumna Guruprad</h1> 
-  <p align="center"> I am a ML/AI Enthusiast who is also a Software Developer .</p>
+  <p align="center"> I am a ML/AI Enthusiast who is also a Software Developer focused on (Python/Flask/Django, NodeJS, ReactJS).</p>
 </p>
 
 <p align='center'>
