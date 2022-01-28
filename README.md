@@ -86,7 +86,16 @@
 
 ---
 
+<p align="center">
+   <img src="https://giphy.com/gifs/smu-ellipsis-smuellipsis-USV0ym3bVWQJJmNu3N/giphy.gif" />
+   </p>
+<br>
+
+<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 <h3 align="center">Thank You 🙏🏻.</h3>
+<p align="center">
+        <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
+</p> 
 <!--h4 align="center"></h4>
 <p align="center">
 <a href="" target="_blank"><img src = ""></a>&nbsp;&nbsp;
