@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align='center'><a href="https://theghoul27.github.io/PortfolioSimple/">Hi there 👋🏻, I'm Pradhumna Guruprad</a></h1>
+  <h1 align='center'>Hi there 👋🏻, <a href="https://theghoul27.github.io/PortfolioSimple/">I'm Pradhumna Guruprad</a></h1>
   <p align="center"> I am a ML/AI Enthusiast who is also a Software Developer focused on (Python/Flask/Django, NodeJS, ReactJS).</p>
 </p>
 
