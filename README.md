@@ -92,7 +92,6 @@
 <br>
 
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
-<h3 align="center">Thank You 🙏🏻.</h3>
 <p align="center">
         <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
 </p> 
