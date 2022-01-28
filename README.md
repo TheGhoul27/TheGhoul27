@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align='center'>Hi there 👋🏻, I'm Pradhumna Guruprad</h1> 
+  <h1 align='center'>Hi there 👋🏻, I'm [Pradhumna Guruprad](https://theghoul27.github.io/PortfolioSimple/)</h1> 
   <p align="center"> I am a ML/AI Enthusiast who is also a Software Developer focused on (Python/Flask/Django, NodeJS, ReactJS).</p>
 </p>
 
@@ -21,5 +21,17 @@
   <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=TheGhoul27&show_icons=true&theme=tokyonight&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=TheGhoul27&theme=tokyonight">
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=TheGhoul27&theme=tokyonight">
 </p>
+*************
+</p>
+
+<p>
+**I am Into , 🙏**
+
+**Machine Learning, Web Development, Competetive Programming & Mathematics and Mathematics 😼**
+
+---
+
+<br />
 </p>
