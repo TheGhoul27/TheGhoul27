@@ -37,24 +37,24 @@
 <a href="" target="_blank"><img align="center" src = "https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a>&nbsp;&nbsp;
 </br>
 
-<h4 align="center">Education</h4>
-<img src = "https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white">&nbsp;&nbsp;
-<img src = "https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white">&nbsp;&nbsp;
-<img src = "https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white">&nbsp;&nbsp;
+<h4  align="center">Education</h4>
+<a href="" target="_blank"><img src = "https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white"></a>&nbsp;&nbsp;
+<a href="" target="_blank"><img src = "https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"></a>&nbsp;&nbsp;
+<a href="" target="_blank"><img src = "https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white"></a>&nbsp;&nbsp;
 </br>
 
 <h4 align="center">Frameworks</h4>
-<img src = "https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white">&nbsp;&nbsp;
-<img src = "https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">&nbsp;&nbsp;
-<img src = "https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green">&nbsp;&nbsp;
-<img src = "https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white">&nbsp;&nbsp;
-<img src = "https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9">&nbsp;&nbsp;
-<img src = "https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">&nbsp;&nbsp;
-<img src = "https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">&nbsp;&nbsp;
-<img src = "https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">&nbsp;&nbsp;
-<img src = "	https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">&nbsp;&nbsp;
+<a href="" target="_blank"><img src = "https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white"></a>&nbsp;&nbsp;
+<a href="" target="_blank"><img src = "https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>&nbsp;&nbsp;
+<a href="" target="_blank"><img src = "https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"></a>&nbsp;&nbsp;
+<a href="" target="_blank"><img src = "https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white"></a>&nbsp;&nbsp;
+<a href="" target="_blank"><img src = "https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9"></a>&nbsp;&nbsp;
+<a href="" target="_blank"><img src = "https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"></a>&nbsp;&nbsp;
+<a href="" target="_blank"><img src = "https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"></a>&nbsp;&nbsp;
+<a href="" target="_blank"><img src = "https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"></a>&nbsp;&nbsp;
+<a href="" target="_blank"><img src = "	https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>&nbsp;&nbsp;
 </br>
 
-<!--h4></!--h4>
-<img src = "">
+<!--h4 align="center"></!--h4>
+<a href="" target="_blank"><img src = ""></a>&nbsp;&nbsp;
 </p-->
