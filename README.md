@@ -60,6 +60,29 @@
 </br>
 </p>
 
-<!--h4 align="center"></!--h4>
+<h4 align="center">IDE and Websites</h4>
+<p align="center">
+<a href="" target="_blank"><img src = "https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white"></a>&nbsp;&nbsp;
+<a href="" target="_blank"><img src = "https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"></a>&nbsp;&nbsp;
+<a href="" target="_blank"><img src = "https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white"></a>&nbsp;&nbsp;
+<a href="" target="_blank"><img src = "https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>&nbsp;&nbsp;
+</p>
+
+<h4 align="center">Languages</h4>
+<p align="center">
+<a href="" target="_blank"><img src = "https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a>&nbsp;&nbsp;
+<a href="" target="_blank"><img src = "	https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>&nbsp;&nbsp;
+<a href="" target="_blank"><img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>&nbsp;&nbsp;
+<a href="" target="_blank"><img src = "	https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>&nbsp;&nbsp;
+<a href="" target="_blank"><img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>&nbsp;&nbsp;
+<a href="" target="_blank"><img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>&nbsp;&nbsp;
+<a href="" target="_blank"><img src = "https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"></a>&nbsp;&nbsp;
+<a href="" target="_blank"><img src = "https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"></a>&nbsp;&nbsp;
+<a href="" target="_blank"><img src = "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"></a>&nbsp;&nbsp;
+<a href="" target="_blank"><img src = "https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white"></a>&nbsp;&nbsp;
+</p>
+
+<!--h4 align="center"></h4>
+<p align="center">
 <a href="" target="_blank"><img src = ""></a>&nbsp;&nbsp;
 </p-->
