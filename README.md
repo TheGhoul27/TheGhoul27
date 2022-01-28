@@ -23,7 +23,9 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=TheGhoul27&theme=tokyonight">
   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=TheGhoul27&theme=tokyonight">
   </p>
+
 ---
+
 </p>
 
 <p aligh="center">
