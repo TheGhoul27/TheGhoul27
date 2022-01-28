@@ -22,11 +22,12 @@
   <img src = "https://github-readme-stats.vercel.app/api?username=TheGhoul27&show_icons=true&theme=tokyonight&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=TheGhoul27&theme=tokyonight">
   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=TheGhoul27&theme=tokyonight">
-</p>
-*************
+  </p>
+
+---
+
 </p>
 
-<p>
 **I am Into , 🙏**
 
 **Machine Learning, Web Development, Competetive Programming & Mathematics and Mathematics 😼**
@@ -34,4 +35,3 @@
 ---
 
 <br />
-</p>
