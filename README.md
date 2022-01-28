@@ -28,8 +28,8 @@
 
 </p>
 
-<h3 align="center">⚡️<i>Expertise!</i>⚡️</h3>
-<h4 align="center">⚡️<i>Databases!</i>⚡️</h4>
+<h2 align="center">⚡️<i>Expertise!</i>⚡️</h2>
+<h3 align="center">⚡️<i>Databases!</i>⚡️</h3>
 <p align="center">
 <a href="" target="_blank"><img src = "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></a>&nbsp;&nbsp;
 <a href="" target="_blank"><img src = "https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"></a>&nbsp;&nbsp;
@@ -38,7 +38,7 @@
 <br>
 </p>
 
-<h4  align="center">⚡️<i>Education!</i>⚡️</h4>
+<h3  align="center">⚡️<i>Education!</i>⚡️</h3>
 <p align="center">
 <a href="" target="_blank"><img src = "https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white"></a>&nbsp;&nbsp;
 <a href="" target="_blank"><img src = "https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"></a>&nbsp;&nbsp;
@@ -46,7 +46,7 @@
 <br>
 </p>
 
-<h4 align="center">⚡️<i>Frameworks!</i>⚡️</h4>
+<h3 align="center">⚡️<i>Frameworks!</i>⚡️</h3>
 <p align="center">
 <a href="" target="_blank"><img src = "https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white"></a>&nbsp;&nbsp;
 <a href="" target="_blank"><img src = "https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>&nbsp;&nbsp;
@@ -60,7 +60,7 @@
 <br>
 </p>
 
-<h4 align="center">⚡️<i>IDE and Websites!</i>⚡️</h4>
+<h3 align="center">⚡️<i>IDE and Websites!</i>⚡️</h3>
 <p align="center">
 <a href="" target="_blank"><img src = "https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white"></a>&nbsp;&nbsp;
 <a href="" target="_blank"><img src = "https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"></a>&nbsp;&nbsp;
@@ -69,7 +69,7 @@
 <br>
 </p>
 
-<h4 align="center">⚡️<i>Languages!</i>⚡️</h4>
+<h3 align="center">⚡️<i>Languages!</i>⚡️</h3>
 <p align="center">
 <a href="" target="_blank"><img src = "https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a>&nbsp;&nbsp;
 <a href="" target="_blank"><img src = "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>&nbsp;&nbsp;
