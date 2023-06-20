@@ -16,7 +16,6 @@
 <a href="mailto:guruprasadpradhumna@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
-  <img src="https://gpvc.arturio.dev/TheGhoul27" />
   
   <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=TheGhoul27&show_icons=true&theme=tokyonight&line_height=27">
